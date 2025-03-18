@@ -3,7 +3,7 @@
  * Plugin Name:       Songbook Block
  * Description:       Example block scaffolded with Create Block tool.
  * Version:           0.0.1
- * Requires at least: 6.7
+ * Requires at least: 6.6
  * Requires PHP:      7.4
  * Author:            Patrick Günthard
  * License:           GPL-2.0-or-later
