@@ -1,6 +1,6 @@
 {
 	"name": "songbook-block",
-	"version": "0.0.1",
+	"version": "0.0.2-1",
 	"description": "Songbook plugins for displaying songtext together with chords",
 	"author": "Patrick Günthard",
 	"license": "GPL-2.0-or-later",
