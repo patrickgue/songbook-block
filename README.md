@@ -10,7 +10,7 @@ Songbook Block
 
 == Description ==
 
-Songbook plugins for displaying songtext together with chords. This is a reimplementation of the [Songbook program](https://github.com/patrickgue/songbook).
+Wordpress plugin for displaying songtext together with chords. This is a reimplementation of the [Songbook program](https://github.com/patrickgue/songbook).
 
 == Installation ==
 
